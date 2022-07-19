@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+localStorage adicionar e remover itens.
